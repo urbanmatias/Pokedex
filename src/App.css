@@ -1,0 +1,11 @@
+.App {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.title-h1 {
+  margin: 50px;
+  font-size: 70px;
+  font-family: Roboto, sans-serif;
+}
